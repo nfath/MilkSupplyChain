@@ -24,15 +24,15 @@ peer:2
 ca:1
 
 fabric-samples
-    network-
+    test-network
+fabric-ca
 MilkSupplyChain
     fabric-suply-chain
     fabric_app
-    fabric-sample-API
-fabric-ca
 
 
-1) solve issue of github and upload 
-2) config the net and fabric-ca and API and SDK
-3) go back to chaincode inside the MilkSupplyChain
+1) solve issue of github and upload (done)
+2) config the net and fabric-ca and fabric API and SDK to mit our functionality
+3) go back to chaincode and the MilkSupplyChain 
+
 
